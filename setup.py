@@ -11,7 +11,7 @@ setuptools.setup(
     description="Retry decorator for both synchronous and asynchronous functions.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/monk-after-90s/asyncUnittest.git",
+    url="https://github.com/monk-after-90s/SyncAsyncRetry.git",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
